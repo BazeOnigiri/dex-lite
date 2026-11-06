@@ -13,6 +13,7 @@ build/
 # Secrets (HMAC key, API keys) : ne jamais commiter
 .env
 *.key
+*.secret
 
 # IDE / OS
 .idea/
